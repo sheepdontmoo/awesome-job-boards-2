@@ -216,6 +216,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Flexjobs](http://www.flexjobs.com/jobs/) - A service purely focusing on telecommuting, part-time, flexible jobs.
 - [Just Remote](https://justremote.co/remote-jobs)
 - [Remote Role](https://remoterole.com/) - A job board exclusively for remote and remote-friendly jobs.
+- [Remote1stJobs](https://www.remote1stjobs.com/) - Remote jobs open to UK, Europe and EMEA candidates, with clear hiring-location eligibility.
 - [Remote some](https://remotesome.com/) - Full-time remote-first engineering jobs.
 - [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
 - [We Work Remotely](https://weworkremotely.com/)
